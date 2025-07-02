@@ -1,1 +1,1 @@
-base64_encoded_content_of_README
+<需要从 view_files 结果中获取该文件内容>
